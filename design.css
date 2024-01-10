@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.mycontent{
+
+    margin: 0 auto;
+    width: 760px;
+}
+
+.topimg{
+    width: 100%;
+    background-color: #2A6495;
+}
+
+.resizedimg {
+    width: 760px; 
+    height: auto; 
+  }
+
+.navbar {
+    margin: 0;
+    padding: 10px;
+    overflow: hidden;
+    background-color: gainsboro;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: left;
+    padding: 7px 24px 7px 5px;
+    margin-right: 5px;
+    text-decoration: none;
+    border: 1px solid black;
+
+}
+
+.navbar a:hover {
+    background-color: gray;
+    color: white;
+}
+  
